@@ -1,0 +1,6 @@
+patient_id,age,gender,disease,admission_date,discharge_date,readmitted,city,treatment_costage
+1,65,M,Diabetes,01-01-2023,05-01-2023,1,Hyderabad,20000
+2,45,F,Heart Disease,02-01-2023,06-01-2023,0,Chennai,30000
+3,70,M,Diabetes,03-01-2023,07-01-2023,1,Bangalore,25000
+4,30,F,Infection,04-01-2023,05-01-2023,0,Hyderabad,10000
+5,80,M,Heart Disease,05-01-2023,10-01-2023,1,Chennai,40000
